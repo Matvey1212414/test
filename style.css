@@ -31,7 +31,16 @@
 }
 
 .list_item {
-    margin-right: 30px;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    border: 5px solid rgb(66, 3, 9);
+    cursor: pointer;
+}
+
+.list_item:active {
+    background-color: rgb(71, 23, 23);
 }
 
 .header_link {
@@ -71,6 +80,11 @@
 .hero_block_button {
     margin-top: 100px;
     margin-left: 35px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    border: 5px solid rgb(66, 3, 9);
+    cursor: pointer;
 }
 
 .about {
@@ -140,7 +154,7 @@
 .maps_maps {
     width: 100%;
     height: 450px;
-border: 50px double black;
+    border: 50px double black;
     border-radius: 29px;
 }
 
