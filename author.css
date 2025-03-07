@@ -1,0 +1,12 @@
+.about_auther {
+    background-color: gray;
+}
+
+.about_author_title {
+    text-align: center;
+}
+
+.about_author_text {
+    font-family: "Ponomar", system-ui;
+    font-size: 40px;
+}
